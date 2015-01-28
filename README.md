@@ -6,4 +6,8 @@ Lab3
 
 
 
+
 #THis might cause a merge conflict
+
+Parter: Jacob Brauchler
+
